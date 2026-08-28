@@ -1,0 +1,6 @@
+{
+  "name": "AAG QR",
+  "description": "AAG QR - Private offline and 24h temporary cloud hosting QR code generator with scanner, dynamic editing, analytics, and custom designer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

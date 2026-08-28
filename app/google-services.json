@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814785727104",
+    "project_id": "aag-qr",
+    "storage_bucket": "aag-qr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814785727104:android:3d4d538fbd4d1ac85c7465",
+        "android_client_info": {
+          "package_name": "com.aistudio.qrcodegen.secure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl6BnaROQbPXqn0aHSmDmwfbIU7rTg4B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
